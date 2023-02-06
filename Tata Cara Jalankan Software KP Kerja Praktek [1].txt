@@ -1,0 +1,6 @@
+1. Install XAMPP Version Berapapun
+2. Taruh Sql Database db_ramayana di dalam folder XAMPP->Taruh di Mysql
+3. Atau bisa langsung localhost/phpmyadmin/ dan import data base -> pilih db_ramayana di folder Software KP PT.Eleven
+4. Install mysql-connector-odbc-3.51.30-winx64 atau search di google
+5. Install ODBC Data Source Administrator (64-Bit)
+6. Jalankan Software KP PT.ELEVEN .EXE
