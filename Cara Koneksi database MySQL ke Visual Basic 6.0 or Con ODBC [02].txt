@@ -1,0 +1,11 @@
+Jalankan MySql ODBC Connector di (Control Panel\All Control Panel Items\Administrative Tools)
+
+Pilih --> ODBC Data Sources (64-bit)
+Kemudian Pada Menu User DSN Pilih --> Add --> Pilih MySQL ODBC 8.0 Driver [Yang Telah di install tadi pada istalling_odbc.msi]
+--> Finish
+Pada Menu MYSQL Connector/ODBC Data Source Configuration --> Masukan Nama Data Source [Sesuai Tanpa Spaci]
+Pilih --> TCP/IP Server : --> Isikan --> localhost
+				Pada Menu User - Isikan --> root
+				Pada Menu Password - Isikan --> kosong atau di isi juga ga papa [ sesuai kebutuhan ]
+				Pada Menu Database - Isikan --> db_ramayana [ Sesuai nama sql kalian ]
+
