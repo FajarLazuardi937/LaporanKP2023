@@ -1,0 +1,8 @@
+1. Install XAMPP Version Berapapun
+2. Install Software Crystal Reports 8
+3. Install Software Visual Basic 6.0 Enterprise Edition Version English 
+4. Taruh Sql Database db_ramayana di dalam folder XAMPP->Taruh di Mysql
+5. Atau bisa langsung localhost/phpmyadmin/ dan import data base -> pilih db_ramayana di folder Software KP PT.Eleven
+6. Install mysql-connector-odbc-3.51.30-winx64 atau search di google
+7. Install ODBC Data Source Administrator (64-Bit)
+8. Jalankan Software KP PT.ELEVEN .EXE
