@@ -6,3 +6,5 @@
 6. Install mysql-connector-odbc-3.51.30-winx64 atau search di google
 7. Install ODBC Data Source Administrator (64-Bit)
 8. Jalankan Software KP PT.ELEVEN .EXE
+
+Point 1,2,3 Bisa Di Download Melalui Link : https://drive.google.com/drive/folders/1sWMz4QFjbraR0LytGu9W2dMuacmZbqPC?usp=share_links
