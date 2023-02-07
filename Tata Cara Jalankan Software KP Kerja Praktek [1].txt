@@ -3,8 +3,8 @@
 3. Install Software Visual Basic 6.0 Enterprise Edition Version English 
 4. Taruh Sql Database db_ramayana di dalam folder XAMPP->Taruh di Mysql
 5. Atau bisa langsung localhost/phpmyadmin/ dan import data base -> pilih db_ramayana di folder Software KP PT.Eleven
-6. Install mysql-connector-odbc-3.51.30-winx64 atau search di google
-7. Install ODBC Data Source Administrator (64-Bit)
+6. Install "mysql-connector-odbc-3.51.30-winx64.msi" atau search di google
+7. Install ODBC Data Source Administrator (64-Bit) - ("mysql-connector-odbc-8.0.32-winx64_Data Source Administrator.msi")
 8. Jalankan Software KP PT.ELEVEN .EXE
 
 Point 1,2,3 Bisa Di Download Melalui Link : https://drive.google.com/drive/folders/1sWMz4QFjbraR0LytGu9W2dMuacmZbqPC?usp=share_links
