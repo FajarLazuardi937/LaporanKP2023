@@ -9,3 +9,5 @@ Pilih --> TCP/IP Server : --> Isikan --> localhost
 				Pada Menu Password - Isikan --> kosong atau di isi juga ga papa [ sesuai kebutuhan ]
 				Pada Menu Database - Isikan --> db_ramayana [ Sesuai nama sql kalian ]
 
+Link Video Tutor Sample : https://www.youtube.com/watch?v=TItGa2tXZdE
+
